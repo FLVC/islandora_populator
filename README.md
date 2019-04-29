@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A framework to facilitate the population of XML forms during the usual ingest workflow. When an object is being an ingested, a page will be added as part of the ingest process that will provide the option to use the populator. Populator options include DOI, EndNote, PMID, and RIS.
+A framework to facilitate the population of XML forms during the usual ingest workflow. When an object is being an ingested, a page will be added as part of the ingest process that will provide the option to use the populator. Populator options include DOI, EndNote, PMID, and RIS. Populator also works with Islandora XSLT Populator, which can be accessed at /admin/islandora/tools/xslt_populator.
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Having problems or solved a problem? Check out the Islandora google groups for a
 
 Current maintainers:
 
-* [Jordan Dukart](https://github.com/jordandukart)
+* [Will Panting](https://github.com/willtp87)
 
 ## Development
 
